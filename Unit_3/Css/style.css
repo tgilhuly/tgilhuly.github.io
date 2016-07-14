@@ -1,7 +1,6 @@
 body {
   text-align: center;
-  background: url("http://stwww.surfermag.com/wp-content/uploads/2012/01/christianredongo_zaknoyle.jpg");
-  background-size: cover;
+  background: url("../images/surfing.jpg");
   color: #000;
 }
 hr {
