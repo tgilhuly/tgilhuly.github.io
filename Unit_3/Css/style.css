@@ -1,9 +1,22 @@
+@import url(https://fonts.googleapis.com/css?family=Biryani:700);
+@import url(https://fonts.googleapis.com/css?family=Fjalla+One);
 body {
   text-align: center;
   background: url("../Images/Surfing.jpg");
   background-size: cover;
   color: #000;
 }
+h1 {
+	font-family: 'Biryani', sans-serif;
+
+}
+h2 {
+	font-family: 'Fjalla One', sans-serif;
+}
 hr {
   width: 200px;
 }
+h3 {
+	font-family: 'Biryani', sans-serif;
+}
+
