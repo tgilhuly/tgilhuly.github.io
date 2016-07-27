@@ -1,0 +1,20 @@
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+ }
+ nav {
+ 	background-color: #E8C66A;
+ }
+ aside{
+ 	background-color: #FFC675;
+ }
+article{
+ 	background-color: #E89C6C;
+ }
+footer{
+ 	background-color: #FF957E;
+ }
+div, section{
+ 	background-color: #FFE2b8;
+ }
