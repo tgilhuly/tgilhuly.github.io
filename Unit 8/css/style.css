@@ -1,0 +1,62 @@
+body{
+	font-family: 'Biryani', sans-serif;
+}
+header {
+    background-color: #FFFFFF;
+    border: 1px black solid;
+    padding: 20px;
+     background: url(https://scontent-lax3-1.xx.fbcdn.net/t31.0-8/11224807_10207147095025442_8017857041265955270_o.jpg);
+ }
+ nav {
+ 	background-color: #8c9192;
+ 	text-align: right;
+ 	font-size: 1.5em;
+ 	padding: 10px 10px;
+ 	border:10px;
+ }
+ nav a{
+ 	margin:0px 10px;
+ }
+ aside{
+ 	background-color: #FFFFFF;
+ 	padding: 20px;
+ 	float: left;
+ 	width: 42%;
+ }
+article{
+ 	background-color: #FFFFFF;
+ 	text-align: center;
+ 	padding: 20px;
+ 	float: right;
+ 	width: 50%;
+ }
+ .clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+footer{
+ 	background-color: #FFFFFF;
+ }
+ @media only screen and (max-width: 1020px) {
+
+aside {
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+.sections {
+    background-color: #FFFFFF;
+    text-align: center;
+    padding: 20px;
+    float: none;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+
+div, section{
+ 	background-color: #FFFFFF;
+ }
